@@ -1,1 +1,3 @@
+This is modified file 4.txt on the clone side .
+
 adshdsfnfsdn (This is a new file to add to remote repository)
